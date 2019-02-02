@@ -7,8 +7,8 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/mailru/easyjson/jlexer"
-	"github.com/mailru/easyjson/jwriter"
+	"github.com/hhh0pE/easyjson/jlexer"
+	"github.com/hhh0pE/easyjson/jwriter"
 )
 
 // Marshaler is an easyjson-compatible marshaler interface.
